@@ -1,13 +1,19 @@
 ![Header](https://github.com/rafciol/rafciol/blob/main/git%20header.png)
 
 
-I'm frontend developer with 1 year of commercial experience 🤓 who is passionate about making websites since 2018. I enjoy working on unique projects from frontend side. I like talking with people about code and tech ideas.  
+I'm frontend developer with one year of commercial experience, who is passionate about making websites since 2018.
+
+I have skills in 👇
+\
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 >
 Projects I have participated in - (Frontend):
 \
 https://strefawolnoslowa.pl/
 \
 https://izba-lekarska.pl/
+\
+https://wydawnictwodwiesiostry.pl/
 
 📧 Connect with me: dorian.namyslak@gmail.com
 
