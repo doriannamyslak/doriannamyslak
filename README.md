@@ -14,6 +14,8 @@ https://strefawolnoslowa.pl/
 https://izba-lekarska.pl/
 \
 https://wydawnictwodwiesiostry.pl/
+\
+https://wsb.edu.pl/
 
 📧 Connect with me: dorian.namyslak@gmail.com
 
