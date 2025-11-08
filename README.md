@@ -5,7 +5,7 @@
 <hr>
 
 ## 🌊 About me
-I'm a passionate web developer with 1+ years of experience. Currently learning web development, and modern web technologies. \
+I have been working with Web development for almost 6 years, currently have 2+ years of commercial experience. Still learning web development, framweworks, and modern web technologies. \
 I'm addicted to making unique solutions and provide best products.
 
 ## 🛠️ Tech Stack
