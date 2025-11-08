@@ -57,15 +57,15 @@ Strona Akademii WSB niepublicznej uczelni wyższej. \
 
 ##
 
-### A.T Trading
-Strona firmy transportowej w Zamościu. \
+### Medipsyche
+Strona Centrum Medyczno Rehabilitacyjnego w Łodzi. \
 **Stack:** React, Next.js, TypeScript, TailwindCSS \
 **Rola:** Tworzenie i rozwój strony.
 
 ##
 
-### Medipsyche
-Strona Centrum Medyczno Rehabilitacyjnego w Łodzi. \
+### A.T Trading
+Strona firmy transportowej w Zamościu. \
 **Stack:** React, Next.js, TypeScript, TailwindCSS \
 **Rola:** Tworzenie i rozwój strony.
 
