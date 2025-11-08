@@ -5,8 +5,7 @@
 <hr>
 
 ## 🌊 About me
-I have been working with Web development for almost 6 years, currently have 2+ years of commercial experience. Still learning web development, framweworks, and modern web technologies. \
-I'm addicted to making unique solutions and provide best products.
+I have been working with Web development for almost 6 years, currently have 2+ years of commercial experience. Still learning web development, framweworks, and modern web technologies. I'm addicted to making unique solutions and provide best products.
 
 ## 🛠️ Tech Stack
 
