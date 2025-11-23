@@ -28,49 +28,49 @@ I have been working with Web development for almost 6 years, currently have 2+ y
 <hr>
 
 ## 🏗️ Commercial Projects
-### [Izba Lekarska](https://izba-lekarska.pl/)
+### 🏥 [Izba Lekarska](https://izba-lekarska.pl/)
 Portal Izby Lekarskiej w Warszawie. \
 **Stack:** Laravel, SCSS, JS \
 **Rola:** Rozwój i ulepszanie istniejących rozwiązań
 
 ##
 
-### [Strefa Wolnosłowa](https://strefawolnoslowa.pl/)
+### 📣 [Strefa Wolnosłowa](https://strefawolnoslowa.pl/)
 Strona Fundacji wielokulturowej i multidyscyplinarnej grupy artystek, aktywistek i animatorek kultury. \
 **Stack:** Laravel, SCSS, JS, Jquery \
 **Rola:** Tworzenie i rozwój strony.
 
 ##
 
-### [Wydawnictwo Dwie Siostry](https://wydawnictwodwiesiostry.pl/)
+### 👭 [Wydawnictwo Dwie Siostry](https://wydawnictwodwiesiostry.pl/)
 Strona wydawnictwa książek dla dzieci i młodzieży. \
 **Stack:** Laravel, SCSS, JS \
-**Rola:** Wdrażanie dostępności cyfrowej <b>(WCAG)</b>
+**Rola:** Wdrażanie dostępności cyfrowej <b>(WCAG)</b> i feature'ów
 
 ##
 
-### [Akadamia WSB](https://wsb.edu.pl/)
+### 💟🎓 [Akadamia WSB](https://wsb.edu.pl/)
 Strona Akademii WSB niepublicznej uczelni wyższej. \
 **Stack:** Laravel, SCSS, Jquery \
 **Rola:** Optymalizacja i ulepszanie rozwiązań.
 
 ##
 
-### Medipsyche
+### 💉 Medipsyche
 Strona Centrum Medyczno Rehabilitacyjnego w Łodzi. \
 **Stack:** React, Next.js, TypeScript, TailwindCSS \
 **Rola:** Tworzenie i rozwój strony.
 
 ##
 
-### A.T Trading
+### 🚚 A.T Trading
 Strona firmy transportowej w Zamościu. \
 **Stack:** React, Next.js, TypeScript, TailwindCSS \
 **Rola:** Tworzenie i rozwój strony.
 
 ##
 
-### Weronika Gęsicka
+### 👩‍🎨 Weronika Gęsicka
 Strona marki osobistej Weroniki Gęsickiej, artystki wizualnej. \
 **Stack:** React, Next.js, TypeScript, TailwindCSS, Alpine.js \
 **Rola:** Tworzenie i rozwój strony.
