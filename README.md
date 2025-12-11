@@ -29,51 +29,51 @@ I have been working with Web development for almost 6 years, currently have 2+ y
 
 ## 🏗️ Commercial Projects
 ### 🏥 [Izba Lekarska](https://izba-lekarska.pl/)
-Portal Izby Lekarskiej w Warszawie. \
+Portal of the Medical deparment in Warsaw \
 **Stack:** Laravel, SCSS, JS \
-**Rola:** Rozwój i ulepszanie istniejących rozwiązań
+**My role:** Implementation of new solutions, improvement of existing ones.
 
 ##
 
 ### 📣 [Strefa Wolnosłowa](https://strefawolnoslowa.pl/)
-Strona Fundacji wielokulturowej i multidyscyplinarnej grupy artystek, aktywistek i animatorek kultury. \
+Website of a multicultural and multidisciplinary group of female artists, activists, and cultural animators. \
 **Stack:** Laravel, SCSS, JS, Jquery \
-**Rola:** Tworzenie i rozwój strony.
+**My role:** Develop new solutions, improvement of existing features.
 
 ##
 
 ### 👭 [Wydawnictwo Dwie Siostry](https://wydawnictwodwiesiostry.pl/)
-Strona wydawnictwa książek dla dzieci i młodzieży. \
+Website of a publisher of books for children and young adults. \
 **Stack:** Laravel, SCSS, JS \
-**Rola:** Wdrażanie dostępności cyfrowej <b>(WCAG)</b> i feature'ów
+**My role:** Implementation of User Accesibility <b>(WCAG)</b> and new features.
 
 ##
 
 ### 💟🎓 [Akadamia WSB](https://wsb.edu.pl/)
-Strona Akademii WSB niepublicznej uczelni wyższej. \
+Website of the WSB University in Dąbrowa Górnicza. \
 **Stack:** Laravel, SCSS, Jquery \
-**Rola:** Optymalizacja i ulepszanie rozwiązań.
+**My role:** Optimization and develop new solutions.
 
 ##
 
 ### 🚚 [A.T Trading](https://att-logistics.pl/)
-Strona firmy transportowej w Zamościu. \
+Website of a transport company in Zamość. \
 **Stack:** React, Next.js, TypeScript, TailwindCSS \
-**Rola:** Tworzenie i rozwój strony.
+**My role:** Building website from scratch
 
 ##
 
 ### 💉 Medipsyche
-Strona Centrum Medyczno Rehabilitacyjnego w Łodzi. \
+Website of the Medical and Rehabilitation Center in Łódź. \
 **Stack:** React, Next.js, TypeScript, TailwindCSS \
-**Rola:** Tworzenie i rozwój strony.
+**My role:** Building website from scratch
 
 #
 
 ### 👩‍🎨 Weronika Gęsicka
-Strona marki osobistej Weroniki Gęsickiej, artystki wizualnej. \
+Personal brand website of Weronika Gęsicka, visual artist. \
 **Stack:** React, Next.js, TypeScript, TailwindCSS, Alpine.js \
-**Rola:** Tworzenie i rozwój strony.
+**My role:** Building website from scratch
 
 <hr>
 
