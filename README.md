@@ -38,7 +38,7 @@ Portal of the Medical deparment in Warsaw \
 ### 📣 [Strefa Wolnosłowa](https://strefawolnoslowa.pl/)
 Website of a multicultural and multidisciplinary group of female artists, activists, and cultural animators. \
 **Stack:** Laravel, SCSS, JS, Jquery \
-**My role:** Develop new solutions, improvement of existing features.
+**My role:** Building website from scratch
 
 ##
 
