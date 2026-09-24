@@ -4,10 +4,12 @@
 
 <hr>
 
-## 🌊 About me
-I have been working with Web development for almost 6 years, currently have 2+ years of commercial experience. Still learning web development, framweworks, and modern web technologies. I'm addicted to making unique solutions and provide best products.
+## About me
+Frontend Developer with 2 years of commercial experience building modern web applications using React and Next.js. For me, development is not just about writing code, it is about delivering practical software that solves real business problems. I focus on bridging the gap between technical execution and company goals, ensuring that the applications I build serve a clear purpose and drive results.
 
-## 🛠️ Tech Stack
+In my daily work, I specialize in creating fast, responsive interfaces and structuring scalable, reusable components. I take pride in optimizing page performance and turning complex product requirements into straightforward, user-friendly features. In the future, I aim to be a Full-Stack Developer.
+
+## Tech Stack
 
 <b>Languages</b>
 
@@ -31,7 +33,7 @@ I have been working with Web development for almost 6 years, currently have 2+ y
 
 <hr>
 
-## 🏗️ Commercial Projects
+## Commercial Projects
 ### 🏥 [Izba Lekarska](https://izba-lekarska.pl/)
 Portal of the Medical deparment in Warsaw \
 **Stack:** Laravel, SCSS, JS \
@@ -88,7 +90,7 @@ Personal brand website of Weronika Gęsicka, visual artist. \
 
 <hr>
 
-## 🤝 Connect with me
+## Connect with me
 
 ### 💬 Quick connect
 
