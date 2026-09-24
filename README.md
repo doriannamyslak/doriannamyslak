@@ -37,7 +37,7 @@ In my daily work, I specialize in creating fast, responsive interfaces and struc
 ### 🏥 [Izba Lekarska](https://izba-lekarska.pl/)
 Portal of the Medical deparment in Warsaw \
 **Stack:** Laravel, SCSS, JS \
-**My role:** Implementation of new solutions, improvement of existing ones.
+**My role:** Implementation of new solutions, improvement of existing ones
 
 ##
 
@@ -51,14 +51,14 @@ Website of a multicultural and multidisciplinary group of female artists, activi
 ### 👭 [Wydawnictwo Dwie Siostry](https://wydawnictwodwiesiostry.pl/)
 Website of a publisher of books for children and young adults. \
 **Stack:** Laravel, SCSS, JS \
-**My role:** Implementation of User Accesibility <b>(WCAG)</b> and new features.
+**My role:** Implementation of User Accesibility <b>(WCAG)</b> and new features
 
 ##
 
 ### 💟🎓 [Akadamia WSB](https://wsb.edu.pl/)
 Website of the WSB University in Dąbrowa Górnicza. \
 **Stack:** Laravel, SCSS, Jquery \
-**My role:** Optimization and develop new solutions, implementation of User Accesibility <b>(WCAG)</b>.
+**My role:** Optimization and develop new solutions, implementation of User Accesibility <b>(WCAG)</b>
 
 ##
 
@@ -72,14 +72,14 @@ Website of a transport company in Zamość. \
 ### 🏛️ [Syfon studio](https://syfonstudio.com/)
 Website design studio based in Poland \
 **Stack:** React, Next.js, TypeScript, TailwindCSS \
-**My role:** Building website from scratch, creating advanced animations.
+**My role:** Building website from scratch, creating advanced animations with GSAP
 
-##
+## 
 
-### 💉 Medipsyche
-Website of the Medical and Rehabilitation Center in Łódź. \
+### 🍂 Zemla Studio
+Interior design studio based in Poland \
 **Stack:** React, Next.js, TypeScript, TailwindCSS \
-**My role:** Building website from scratch
+**My role:** Building website from scratch, implementation of advanced animations with GSAP
 
 ##
 
