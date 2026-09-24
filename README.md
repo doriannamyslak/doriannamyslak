@@ -83,6 +83,13 @@ Interior design studio based in Poland \
 
 ##
 
+### 💉 Medipsyche
+Website of the Medical and Rehabilitation Center in Łódź. \
+**Stack:** React, Next.js, TypeScript, TailwindCSS \
+**My role:** Building website from scratch
+
+##
+
 ### 👩‍🎨 Weronika Gęsicka
 Personal brand website of Weronika Gęsicka, visual artist. \
 **Stack:** React, Next.js, TypeScript, TailwindCSS, Alpine.js \
